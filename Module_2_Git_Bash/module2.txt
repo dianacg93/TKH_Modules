@@ -1,0 +1,14 @@
+1) What is Git and how is it different than Github? 
+Git is a revision control system, which means that it will keep a history of your changes (commits) to your code in a repository. To use Git, you have to initialize git inside your main working folder with "git init". The former command allows Git to create a local repository which will keep track of the changes. Git has so many different types of commands and allows you to connect to a hosting service (an online site) remote repository. The most common site used is GitHub, but there are many others, such as GitLab, BitBucket and others. In this case, we used GitHub to host our Git repo online.
+
+
+2) Why use the terminal?
+Compared to the GUI (or what people think of the screen of a laptop/monitor), the terminal makes it pretty easy to give the computer commands without much effort. Personally, I don't like using the laptop's trackpad and always look for ways to learn key shortcuts-- in a way, using the terminal is pretty similar as I can type commands for the computer to execute without having to make my hands leave the keyboard.
+
+
+3) Explain three benefits of version control 
+ *1 Version control is literally a godsend for techies. 
+Managing the structure of a project (what the main folder is, what folders are in the main folder, where a file lives, and so on) and the ability to have a tracked history of changes in the code from its inception. 
+ *2 The ability to work/collaborate in a project with other programmers at the same time.
+ *3 The ability to create and use different branches to separate concerns. 
+- Main branch is usually called 'master' (However, GitHub plans to change the term to avoid slavery references -- https://www.zdnet.com/article/github-to-replace-master-with-alternative-term-to-avoid-slavery-references/) 
