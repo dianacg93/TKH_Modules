@@ -1,0 +1,51 @@
+In your own words, what is a computer really doing whenever you type on a keyboard? 150
+
+The process of pressing a key and seeing it appear on the screen is similar to that of going to a restaurant and ordering food. You go to this speed-of-light establishment that prepares food in less than a second. When you are ready to order, KB -the waiter- takes your order-- a "z". Then, KB quickly passes your order to the kitchen staff. The kitchen staff analyzes what ingredients will be necessary to prepare “z”. Like most dishes, “z” is composed of different ingredients, so there are different kitchen staff preparing parts of your dish. Since most ingredients have been prepared ahead of time, it doesn’t take them long to put “z” together. In a fraction of a second, KB comes to your table and places down your “z” ready for you to enjoy. 
+
+
+In your own words, how do computers use input and output to create experiences? 250
+The computers rely on users to insert inputs in order to produce an output - from typing into input field boxes, clicking a button and voila! You may or may not log into your Gmail. 
+When you type the correct information, and the lord of the internet is on your side, you will have a positive experience and will successfully be signed in. However, you have not used that account in 5 years, and your internet connection has been having issues lately, so things may not go as well as expected. When you type your email address, mistakenly you added an extra period. This time, when you click login, the website is kind enough to save you the trouble of wondering why you were not logged in and tells you there’s an error and to enter a valid email address. As you realize and remove the extra period, you click login, but with your internet being flaky, the browser decides to step in and communicates “no internet” and to check your connection, which prompts you to restart your modem for the fifth time this week. Once your email is fixed, your connection is stable, with the last bit of patience, you click log in one more time, and lucky for you that old password was the correct one (it’s about time you update it, though).
+
+
+Explain why software products are essentially "infinitely reproducible nothings.150
+Software, compared to hardware, is inexistent material — in the sense that it’s something that cannot be grasped. If electricity were to stop working, data centers to collapse, big tech corps to close and shut down their business, what would be left behind would be nothing but memories. As more and more applications come to existence, it warps our own idea of reality (there’s even VR and AR) to the point that we start to think we exist inside our Instagram posts, our emails need to be read and replied, we need to attend our Zoom meetings, and so on. Software has become an extension of ourselves, and the companies behind them keep on finding ways to wrap us more into their product by fine-tuning their software to meet our “needs”or in other words, by creating needs for us to use their software.
+
+
+Explain in your own words how code becomes software.150
+
+It all starts with a simple line of code. From using Python, Javascript, C#, Java or any language to print to the console, to creating a variable, assigning it a value, running a loop, using control flow inside of it, reassigning the value to our variable, wrapping our code inside a function and returning the value of our variable. From one function, we expand to another function which will use our previous function’s returning value to spit out another value. Eventually we may want to use an API and/or use a JSON file, which will provide us with data or even save data for our software. Software is composed of many smaller components, which, by themselves, may not be powerful, but when connected with each other can become the login for a social media site, perform arithmetic. In order for code to become software, we not only have to write code to build our software, but also write code for our code (testing is an important part of the equation). 
+
+
+Explain "algorithms" in your own words.150
+
+Algorithms are like a recipe, where you have ingredients (inputs) and instructions (steps) to follow and to return an output. The computer itself doesn’t know what it needs to do, but follows each step to a T and produces something out of it. Need to solve something more complex like find the length of this paragraph? Easy, write a function that takes a string as a parameter and you can either transform it into an array of words and then count the length, or you can loop through the string and have a counter increase by one every time the current index is a whitespace (you can use the unicode to be more specific), and voila! You will  realize this paragraph has less than 150 words. 
+
+
+Explain the DRY principle.100
+
+The DRY ( Don’t Repeat Yourself) principle is pretty much what every mom in the world needs and should have. The DRY principle allows programmers to create reusable templates to use in different situations. For example, If a mom wants her kids to sleep 8 hours every night, instead of having to create a new alarm every night before going to sleep, the mom would create a function which will take the time her kids are going to bed as an input, and it will calculate what time it will be after 8 hours to set the alarm.
+
+
+In your own words, what is object-oriented programming?100
+
+When I think of OOP (Object-Oriented Programming), Biology comes to mind. The science of classifying species and grouping them based on their characteristics is pretty much what OOP does. If we have a class called Mammals, this would have subclasses, including humans. Under our humans subclass, we could have other subclasses where we could divide humans by their gender, race, country of origin, etc. 
+
+
+In your own words explain data and how it relates to code.100
+
+Simply put, this is a catch-22 situation, where in order to process the existing data, we need code, which in result, will produce more data, which eventually will also need to be processed. Without inputs, a function can still run, yet the idea of writing code is for it to solve problems based on information given to it in order for it to return a result. This result can be from a simple string, boolean, a number to an extensive object of key and value pairs, a JSON file with data to be analyzed by another function, etc.  
+
+What is a framework?150
+
+Let’s say you are tired of everyone telling you to create a Facebook account, so you finally decide to do it. Without the use of a framework, Facebook would need to have hundreds, if not thousands, developers on the clock 24/7 to create an empty template for you to use for your new account. Want to update your profile ? Well, the developer would need to catch the changes you have made, update the HTML Page and you would have to hit refresh to see the changes. The same way when you add a comment or like a post, you would hit refresh in order to see the changes. Frameworks make it easier and simpler for web applications —  to  be created, be updated automatically, — by creating reusable templates and using a virtual DOM which updates the real DOM when changes have been made.
+
+
+What is debugging?150
+
+Debugging. If we were in the 1940s, the answer to this question would definitely be “finding a physical bug in the computer. Thank you, Grace Hopper. However, it’s 2020, and technology has advanced quite a bit, to be modest, and physical bugs have now become quite virtual. When we say we are debugging our code, we mean we are fixing the errors in our code (most probably you forgot a semicolon, misspelled a word, indented incorrectly, etc). Some languages will wait until you are running your code to tell you you have an error (thank you, Javascript for keeping quiet), while others will not compile your code, which will not let you move forward until you fix your error (C# - aka eagle-eye language). 
+
+
+Why do you want to learn how to code?500
+
+Learning about technology and how to use it has always been a fascination to me. As the world becomes more virtual and internet-connected by the day, I want to have an impact, as small as it may be, on how technology shapes the relations in our society. The first time I was exposed to a computer, I was six years old. As part of the school curriculum, we had to learn how to operate a computer — from learning how to turn it on, use the mouse, open applications, create documents and presentations, to how to transfer information onto and off of a floppy disk (kids these days wouldn’t know the struggle) and how to burn CDs. Eventually, by the age of 11 when I came to the U.S., I was exposed for the first time to the World Wide Web. Little by little I learned about electronic mail and instant messaging with Windows Live Messenger, social media sites (hi5?) to playing games online, etc. Eventually, during high school I attended a summer class to learn about technology and had the opportunity to learn how to build a simple game with Scratch. Although at the time I just saw it as a fun class, retrospectively, I think this class ignited my interest in programming and curiosity about how the internet works, what goes on behind the scenes for a Website. By the time I got to college, pursuing a career in Computer Science was not in my mind, yet by the time I was about to graduate, after taking a class in Web Design, I really questioned myself why I didn’t consider technology as a career. After learning HTML and CSS, I started to play around with some Javascript and to look for simple tutorials that could show me how to build games such as Tetris or snake using JS, HTML and CSS. Now that I have the chance to be in a program to learn coding, I want to learn more about JS, how to use the DOM, libraries as well as how to code for the server side. 
