@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(179, 179, 179, 0.534);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 1.25em;
+    font-family: sans-serif;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    width: 50%;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 1px 10px 25px gray;
+}
+
+.bill-calculation{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 5px;
+    height: 50%;
+}
+
+.heading{
+    font-family: sans-serif;
+}
+
+#tip-form{
+    display: flex;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-evenly;
+}
+
+.results {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.results-title{
+    font-family: sans-serif;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin: 10px 0;
+}
