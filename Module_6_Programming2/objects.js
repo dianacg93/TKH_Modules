@@ -8,7 +8,7 @@ const porsche = {
     bodyStyle: "SUV",
     purchased: false,
     get model() {
-        console.log(this.name)
+        return this.name;
     },
     set newPrice(newPrice){
         this.price = newPrice
@@ -34,7 +34,7 @@ const barcelona = {
     famousPlayers: ["Lionel Messi", "Gerard Pique", "Luis Suarez"],
     nickname: "Barça",
     get numOfPlayers() {
-        console.log(this.numberOfPlayers)
+        return this.numberOfPlayers;
     },
     set newNickname (newName){
         this.nickname = newName;
