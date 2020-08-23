@@ -1,3 +1,5 @@
+// https://codepen.io/dianagaona/pen/XWdjEgJ
+
 let grade = parseInt(prompt("On a scale from 0 - 100, what grade do you expect to get?"))
 
 switch (true){
