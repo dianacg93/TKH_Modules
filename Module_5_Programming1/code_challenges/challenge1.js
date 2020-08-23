@@ -1,3 +1,5 @@
+// https://codepen.io/dianagaona/pen/mdPrxmq
+
 let weeklyIncome = parseInt(prompt("what's your income per week?"))
 console.log('income: $', weeklyIncome)
 
